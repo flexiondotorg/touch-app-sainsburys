@@ -1,5 +1,7 @@
+README.md
 Makefile
 deploytophone.sh
+*.click
 *.tmp
 .bzr
 .git
