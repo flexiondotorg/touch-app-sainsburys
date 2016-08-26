@@ -7,3 +7,5 @@ Exec=qmlscene %u qml/Main.qml
 Terminal=false
 X-Ubuntu-Touch=true
 X-Ubuntu-Splash-Color=#FFFFFF
+X-Ubuntu-Splash-Title=Sainsbury's
+X-Ubuntu-Splash-Image=splash.png
