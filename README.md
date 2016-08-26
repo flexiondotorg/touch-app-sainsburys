@@ -11,6 +11,7 @@ menu with navigation objects.
 ## TODO
 
   * Add URL handlers for supported sites.
+  * Make a nice splash screen.
 
 ## Building
 
