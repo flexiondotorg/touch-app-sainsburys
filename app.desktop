@@ -1,8 +1,10 @@
 [Desktop Entry]
 Name=Sainsbury's
-Comment=webapp for Sainsbury's
+Comment=Sainsbury's WebApp
 Type=Application
-Icon=Sainsburys.png
+Icon=icon.png
 Exec=qmlscene %u qml/Main.qml
 Terminal=false
 X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Image=icon.png
+X-Ubuntu-Splash-Color=#FFFFFF
