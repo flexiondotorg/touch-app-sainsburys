@@ -2,7 +2,7 @@
     "title": "Sainsbury's",
     "description": "Sainsbury's WebApp",
     "name": "msainsburyscouk-owo.flexiondotorg",
-    "version": "0.42",
+    "version": "1.0",
     "maintainer": "Martin Wimpress <code@flexion.org>",    
     "framework": "ubuntu-sdk-15.04",    
     "architecture": "all",
