@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Sainsbury's
+Comment=webapp for Sainsbury's
+Type=Application
+Icon=Sainsburys.png
+Exec=qmlscene %u qml/Main.qml
+Terminal=false
+X-Ubuntu-Touch=true
