@@ -10,7 +10,31 @@ menu with navigation objects.
 
 ## TODO
 
+  * Add radial icons for switching between mobile and desktop interfaces.
   * Add URL handlers for supported sites.
+
+## Changes
+
+### 1.2
+
+  * Added a splash screen.
+
+### 1.1
+
+  * Removed unsed assets.
+
+### 1.0
+
+  * Updated framework to 15.04.
+  * Removed unused policy groups.
+
+### 0.4
+
+  * Added Ogra's alternate webapp template.
+
+### 0.3
+
+  * Initial release.
 
 ## Building
 
