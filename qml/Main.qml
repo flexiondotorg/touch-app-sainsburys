@@ -138,8 +138,24 @@ MainView {
                     onTriggered: {
                         webview.goForward()
                     }
-                   text: qsTr("Forward")
-                 },
+                    text: qsTr("Forward")
+                },
+                RadialAction {
+                    id: groceries
+                    iconName: "stock_link"
+                    onTriggered: {
+                        webview.url = 'https://www.sainsburys.co.uk/shop/gb/groceries'
+                    }
+                    text: qsTr("Groceries")
+                },
+                RadialAction {
+                    id: home
+                    iconName: "home"
+                    onTriggered: {
+                        webview.url = 'https://m.sainsburys.co.uk'
+                    }
+                    text: qsTr("Home")
+                },
                 RadialAction {
                     id: back
                     enabled: webview.canGoBack
