@@ -14,6 +14,14 @@ menu with navigation objects.
 
 ## Changes
 
+### 1.4-WIP
+
+  * Added support for handmadebyyou.co.uk.
+  * Added support for sainsburysenergy.com.
+  * Added support for sainsburyshome.co.uk.
+  * Added support for sainsburyslivingarchive.co.uk.
+  * Added support for sainsburysgifts.co.uk.
+
 ### 1.3
 
   * Added radial navigation for Home and Groceries.
